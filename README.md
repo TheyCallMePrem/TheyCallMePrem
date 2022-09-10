@@ -7,5 +7,5 @@
 - 👯 Actively looking for SDE, Web Dev opportunities.
 
 ### Connect with me:
-<img src="img/email.png"  height: 120px; width: auto;>
+<img src="img/email.png"  width="630" height="auto">
 
