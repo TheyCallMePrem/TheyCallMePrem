@@ -7,6 +7,5 @@
 - 👯 Actively looking for SDE, Web Dev opportunities.
 
 ### Connect with me:
-<img src="img/email.png">
+<img src="img/email.png"  height: 120px; width: auto;>
 
-<a href="https://www.flaticon.com/free-icons/mail" title="mail icons">Mail icons created by Freepik - Flaticon</a>
