@@ -6,6 +6,4 @@
 - 🌱 I’m currently improving full stack web development skills.
 - 👯 Actively looking for SDE, Web Dev opportunities.
 
-### Connect with me:
-<img src="(https://www.flaticon.com/free-icons/email)"  width="630" height="auto">
 
