@@ -13,6 +13,7 @@
 
 #### Skills
 - HTML , CSS , JS
+- JQuery
 - TailwindCSS
 - Bootstrap
 - SQL
