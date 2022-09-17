@@ -15,7 +15,7 @@
 - HTML , CSS , JS
 - TailwindCSS
 - Bootstrap
--- Object Oriented Programming 
+- Java
 
 <p align="center"> 
   Visitor count<br>
