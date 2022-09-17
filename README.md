@@ -12,11 +12,10 @@
 [![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheyCallMePrem)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Skills
-- HTML
-- CSS
-- JS
+- HTML , CSS , JS
 - TailwindCSS
-- Java
+- Bootstrap
+-- Object Oriented Programming 
 
 <p align="center"> 
   Visitor count<br>
