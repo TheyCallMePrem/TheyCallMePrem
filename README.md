@@ -12,6 +12,7 @@
 
 Skills: HTML CSS JavaScript TailwindCSS Java  
 
+(https://github.com/TheyCallMePrem/TheyCallMePrem/blob/main/img/html-5--v1.png)
 
 
 
