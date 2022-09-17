@@ -19,9 +19,6 @@ Skills:  HTML CSS JavaScript TailwindCSS Java
 
 
 
-![alt text]([http://url/to/img.png](https://github.com/TheyCallMePrem/TheyCallMePrem/blob/main/img/html-5--v1.png))
-
-
 
 
 
