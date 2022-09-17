@@ -15,6 +15,7 @@
 - HTML , CSS , JS
 - TailwindCSS
 - Bootstrap
+- SQL
 - Java
 
 <p align="center"> 
