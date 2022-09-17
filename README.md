@@ -12,7 +12,10 @@
 
 Skills: HTML CSS JavaScript TailwindCSS Java  
 
-![MS CS grad at University of Massachusetts Boston](https://github.com/TheyCallMePrem/TheyCallMePrem/blob/main/img/html-5--v1.png/150x50)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/TheyCallMePrem/count.svg" />
+</p>
 
 
 
