@@ -18,6 +18,10 @@
 - Bootstrap
 - SQL
 - Java
+- .NET
+- C#
+- UI/UX design
+- Python
 
 <p align="center"> 
   Visitor count<br>
